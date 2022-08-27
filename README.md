@@ -1,2 +1,2 @@
 # mongodb
-Mongodb Java CRUD example
+Mongodb Java CRUD example using Spring
